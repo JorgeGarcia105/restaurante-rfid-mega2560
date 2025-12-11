@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+*.hex
+*.eep
+*.bin
+
+# Arduino IDE / PlataformIO / VSCode workspace
+.vscode/
+.pio/
+*.workspace
+
+# Proteus files generated
+*.DSN.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.tmp
